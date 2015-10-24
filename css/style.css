@@ -1,0 +1,47 @@
+.logo {
+	text-align: center;
+	position: relative;
+}
+
+.title {
+	text-align: center;
+	font-size: 42px;
+}
+
+.downloadbutton {
+	text-align: center;
+}
+
+h5 {
+	text-align: center;
+	font-size: 22px;
+}
+p {
+ 	text-align:center;
+ 	font-size: 18px;
+ 	
+ }
+ .codepresentation {
+ 	text-align: center;
+ }
+
+ .code p {
+ 	text-align: center;
+ 	font-size: 18px;
+ }
+
+ .fast {
+ 	text-align: center;
+ 	
+ }
+
+ .beautiful {
+ 	text-align: center;
+ }
+
+ footer {
+ 	text-align:center;
+ 	}
+.poweredby {
+	text-align:center;
+	}
